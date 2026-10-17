@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <a href="mailto:alimuhammadsyed296@gmail.com">
-    <img src="https://img.shields.io/badge/✉%20Email-alimuhammadsyed296%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: alimuhammadsyed296@gmail.com" />
+  <a href="mailto:muhammadsyed296@gmail.com">
+    <img src="https://img.shields.io/badge/✉%20Email-muhammadsyed296%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: alimuhammadsyed296@gmail.com" />
   </a>
   &nbsp;
   <a href="https://syed-muhammad-ali.netlify.app/">
