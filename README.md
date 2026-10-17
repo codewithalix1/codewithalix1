@@ -11,13 +11,14 @@
 
 <p align="center">
   <a href="mailto:muhammadsyed296@gmail.com">
-    <img src="https://img.shields.io/badge/✉%20Email-muhammadsyed296%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: alimuhammadsyed296@gmail.com" />
+    <img src="https://img.shields.io/badge/✉%20Get%20in%20Touch-muhammadsyed296%40gmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email: muhammadsyed296@gmail.com" />
   </a>
   &nbsp;
   <a href="https://syed-muhammad-ali.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Explore%20My%20Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Work-View%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
   </a>
 </p>
+
 
 
 ---
