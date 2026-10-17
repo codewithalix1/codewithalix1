@@ -36,8 +36,8 @@ automation, with a strong focus on delivering secure, high-performance, maintain
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
     </tr>
@@ -65,7 +65,7 @@ automation, with a strong focus on delivering secure, high-performance, maintain
     </tr>
     <tr>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" /><br>Google Cloud</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud Platform" /><br>Google Cloud Platform</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>Vercel</td>
@@ -75,19 +75,44 @@ automation, with a strong focus on delivering secure, high-performance, maintain
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
     </tr>
     <tr>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" /><br>OpenAI</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="28" alt="OpenAI icon" /><br>OpenAI</td>
       <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="48" height="48" alt="Claude" /><br>Claude</td>
       <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" /><br>Gemini</td>
       <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" /><br>LangChain</td>
       <td align="center" width="96"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" /><br>Hugging Face</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ollama" width="48" height="48" alt="Ollama" /><br>Ollama</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/Ollama-111111?style=flat&logo=ollama&logoColor=white" height="28" alt="Ollama icon" /><br>Ollama</td>
       <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" /><br>n8n</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=slack" width="48" height="48" alt="Slack" /><br>Slack</td>
+      <td align="center" width="96"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" height="28" alt="Slack icon" /><br>Slack</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" /><br>Notion</td>
     </tr>
   </table>
   <br>
 </div>
+
+
+## Additional Technologies & Skills
+
+The icon grid above highlights selected tools. The badges below cover the rest of the technologies and concepts in my toolkit.
+
+### Frontend & Backend
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white) ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black) ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat&logo=django&logoColor=white)
+
+### AI / ML & Generative AI
+
+![Large Language Models](https://img.shields.io/badge/Large_Language_Models-412991?style=flat&logo=openai&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=flat) ![Vector Databases](https://img.shields.io/badge/Vector_Databases-008080?style=flat) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![RAG](https://img.shields.io/badge/RAG-0A7E8C?style=flat) ![AI Agents](https://img.shields.io/badge/AI_Agents-6A5ACD?style=flat) ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-5B5BD6?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat) ![Whisper AI](https://img.shields.io/badge/Whisper_AI-412991?style=flat&logo=openai&logoColor=white) ![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=flat&logo=openai&logoColor=white) ![Embeddings](https://img.shields.io/badge/Embeddings-287D72?style=flat) ![Semantic Search](https://img.shields.io/badge/Semantic_Search-287D72?style=flat) ![Hugging Face API](https://img.shields.io/badge/Hugging_Face_API-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+### Authentication & Security
+
+![Authentication](https://img.shields.io/badge/Authentication-2F6F9F?style=flat) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat&logo=auth0&logoColor=white) ![Token-based Authentication](https://img.shields.io/badge/Token--based_Authentication-2F6F9F?style=flat) ![Cookie-based Authentication](https://img.shields.io/badge/Cookie--based_Authentication-2F6F9F?style=flat)
+
+### DevOps, Infrastructure & Hosting
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-526CFE?style=flat) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+
+### Workflow Management & Automation
+
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" style="max-width: 100%;" />
