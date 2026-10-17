@@ -28,13 +28,10 @@ automation, with a strong focus on delivering secure, high-performance, maintain
 
 # 💻 My Favorite Tools and Technologies
 
-Technologies are grouped by category, using matching logos where available. Concepts and methods without dedicated logos use labeled badges.
+All technologies are grouped in **one table**, organized by category, with matching icons wherever available. Concepts without dedicated logos use custom labeled badges.
 
----
-
-### 💻 Languages
-
-<table align="center">
+<table align="center" border="1" cellpadding="8" cellspacing="0">
+  <tr><th colspan="9" align="left">💻 Languages</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td>
     <td align="center" width="96"><a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a><br>TypeScript</td>
@@ -46,13 +43,7 @@ Technologies are grouped by category, using matching logos where available. Conc
     <td align="center" width="96"><a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a><br>Git</td>
     <td align="center" width="96"><a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a><br>GitHub</td>
   </tr>
-</table>
-
----
-
-### 🎨 Frontend Development
-
-<table align="center">
+  <tr><th colspan="9" align="left">🎨 Frontend Development</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a><br>React</td>
     <td align="center" width="96"><a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a><br>Next.js</td>
@@ -61,13 +52,7 @@ Technologies are grouped by category, using matching logos where available. Conc
     <td align="center" width="96"><a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a><br>Bootstrap</td>
     <td align="center" width="96"><a href="https://mui.com/" title="Material UI"><img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" /></a><br>Material UI</td>
   </tr>
-</table>
-
----
-
-### ⚙️ Backend, APIs & Real-Time
-
-<table align="center">
+  <tr><th colspan="9" align="left">⚙️ Backend, APIs & Real-Time</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a><br>Node.js</td>
     <td align="center" width="96"><a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" /></a><br>Express.js</td>
@@ -84,13 +69,7 @@ Technologies are grouped by category, using matching logos where available. Conc
     <td align="center" width="96"><a href="https://orm.drizzle.team/" title="Drizzle ORM"><img src="https://cdn.simpleicons.org/drizzle/C5F74F" width="48" height="48" alt="Drizzle ORM" /></a><br>Drizzle ORM</td>
     <td align="center" width="96"><a href="https://graphql.org/" title="GraphQL"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a><br>GraphQL</td>
   </tr>
-</table>
-
----
-
-### 🗄️ Databases & ORMs
-
-<table align="center">
+  <tr><th colspan="9" align="left">🗄️ Databases & ORMs</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a><br>PostgreSQL</td>
     <td align="center" width="96"><a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a><br>MySQL</td>
@@ -102,13 +81,7 @@ Technologies are grouped by category, using matching logos where available. Conc
     <td align="center" width="96"><a href="https://www.pinecone.io/" title="Pinecone"><img src="https://cdn.simpleicons.org/pinecone/000000" width="48" height="48" alt="Pinecone" /></a><br>Pinecone</td>
     <td align="center" width="96"><a href="https://www.trychroma.com/" title="Chroma"><img src="https://cdn.simpleicons.org/chroma/FF6446" width="48" height="48" alt="Chroma" /></a><br>Chroma</td>
   </tr>
-</table>
-
----
-
-### 🤖 AI, LLMs & Generative AI
-
-<table align="center">
+  <tr><th colspan="9" align="left">🤖 AI, LLMs & Generative AI</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://openai.com/" title="OpenAI"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" /></a><br>OpenAI</td>
     <td align="center" width="96"><a href="https://www.anthropic.com/claude" title="Claude"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Claude" /></a><br>Claude</td>
@@ -135,13 +108,7 @@ Technologies are grouped by category, using matching logos where available. Conc
     <td align="center" width="96"><a href="https://github.com/" title="Semantic Search"><img src="https://img.shields.io/badge/Semantic_Search-287D72?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Semantic Search" /></a><br>Semantic Search</td>
     <td align="center" width="96"><a href="https://github.com/" title="Hugging Face API"><img src="https://img.shields.io/badge/Hugging_Face_API-FFD21E?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Hugging Face API" /></a><br>Hugging Face API</td>
   </tr>
-</table>
-
----
-
-### ☁️ Cloud, Infrastructure & DevOps
-
-<table align="center">
+  <tr><th colspan="9" align="left">☁️ Cloud, Infrastructure & DevOps</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a><br>AWS</td>
     <td align="center" width="96"><a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud Platform" /></a><br>Google Cloud Platform</td>
@@ -150,13 +117,7 @@ Technologies are grouped by category, using matching logos where available. Conc
     <td align="center" width="96"><a href="https://docs.github.com/en/actions" title="CI/CD"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="48" height="48" alt="CI/CD" /></a><br>CI/CD</td>
     <td align="center" width="96"><a href="https://github.com/" title="Microservices"><img src="https://img.shields.io/badge/Microservices-526CFE?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Microservices" /></a><br>Microservices</td>
   </tr>
-</table>
-
----
-
-### 🚀 Hosting & Deployment
-
-<table align="center">
+  <tr><th colspan="9" align="left">🚀 Hosting & Deployment</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /></a><br>Vercel</td>
     <td align="center" width="96"><a href="https://www.netlify.com/" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /></a><br>Netlify</td>
@@ -164,13 +125,7 @@ Technologies are grouped by category, using matching logos where available. Conc
     <td align="center" width="96"><a href="https://railway.app/" title="Railway"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48" alt="Railway" /></a><br>Railway</td>
     <td align="center" width="96"><a href="https://github.com/" title="Hosting"><img src="https://img.shields.io/badge/Hosting-475569?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Hosting" /></a><br>Hosting</td>
   </tr>
-</table>
-
----
-
-### 🔐 Authentication & Security
-
-<table align="center">
+  <tr><th colspan="9" align="left">🔐 Authentication & Security</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://jwt.io/" title="JWT"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT" /></a><br>JWT</td>
     <td align="center" width="96"><a href="https://oauth.net/2/" title="OAuth"><img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&labelColor=333333" width="48" height="48" alt="OAuth" /></a><br>OAuth</td>
@@ -178,38 +133,20 @@ Technologies are grouped by category, using matching logos where available. Conc
     <td align="center" width="96"><a href="https://github.com/" title="Token-based"><img src="https://img.shields.io/badge/Token-based-2F6F9F?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Token-based" /></a><br>Token-based</td>
     <td align="center" width="96"><a href="https://github.com/" title="Cookie-based"><img src="https://img.shields.io/badge/Cookie-based-2F6F9F?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Cookie-based" /></a><br>Cookie-based</td>
   </tr>
-</table>
-
----
-
-### 🧰 Development Tools
-
-<table align="center">
+  <tr><th colspan="9" align="left">🧰 Development Tools</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://www.postman.com/" title="Postman"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" /></a><br>Postman</td>
     <td align="center" width="96"><a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a><br>VS Code</td>
     <td align="center" width="96"><a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /></a><br>Figma</td>
   </tr>
-</table>
-
----
-
-### 🔄 Workflow Management & Productivity
-
-<table align="center">
+  <tr><th colspan="9" align="left">🔄 Workflow Management & Productivity</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://www.notion.so/" title="Notion"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" /></a><br>Notion</td>
     <td align="center" width="96"><a href="https://trello.com/" title="Trello"><img src="https://skillicons.dev/icons?i=trello" width="48" height="48" alt="Trello" /></a><br>Trello</td>
     <td align="center" width="96"><a href="https://clickup.com/" title="ClickUp"><img src="https://cdn.simpleicons.org/clickup/7B68EE" width="48" height="48" alt="ClickUp" /></a><br>ClickUp</td>
     <td align="center" width="96"><a href="https://slack.com/" title="Slack"><img src="https://cdn.simpleicons.org/slack/4A154B" width="48" height="48" alt="Slack" /></a><br>Slack</td>
   </tr>
-</table>
-
----
-
-### ⚡ Workflow Automation
-
-<table align="center">
+  <tr><th colspan="9" align="left">⚡ Workflow Automation</th></tr>
   <tr>
     <td align="center" width="96"><a href="https://n8n.io/" title="n8n"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" /></a><br>n8n</td>
     <td align="center" width="96"><a href="https://zapier.com/" title="Zapier"><img src="https://cdn.simpleicons.org/zapier/FF4A00" width="48" height="48" alt="Zapier" /></a><br>Zapier</td>
