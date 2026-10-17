@@ -82,7 +82,7 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://ollama.com/" title="Ollama"><img src="https://cdn.simpleicons.org/ollama/000000" width="48" height="48" alt="Ollama" /></a><br>Ollama</td>
     <td align="center" width="96"><a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" /></a><br>LangChain</td>
     <td align="center" width="96"><a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="LangGraph" /></a><br>LangGraph</td>
-    <td align="center" width="96"><a href="https://huggingface.co/docs/inference-providers/en/tasks/index" title="Hugging Face"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=128" width="48" height="48" alt="Hugging Face" /></a><br>Hugging Face</td>
+    <td align="center" width="96"><a href="https://huggingface.co/" title="Hugging Face"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=128" width="48" height="48" alt="Hugging Face" /></a><br>Hugging Face</td>
     <td align="center" width="96"><a href="https://github.com/" title="Large Language Models"><img src="https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Large Language Models" /></a><br>Large Language Models</td>
     <td align="center" width="96"><a href="https://github.com/" title="LLMs"><img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&labelColor=333333" width="48" height="48" alt="LLMs" /></a><br>LLMs</td>
   </tr>
@@ -126,7 +126,7 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://www.notion.so/" title="Notion"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" /></a><br>Notion</td>
     <td align="center" width="96"><a href="https://trello.com/" title="Trello"><img src="https://www.google.com/s2/favicons?domain=trello.com&sz=128" width="48" height="48" alt="Trello" /></a><br>Trello</td>
     <td align="center" width="96"><a href="https://clickup.com/" title="ClickUp"><img src="https://cdn.simpleicons.org/clickup/7B68EE" width="48" height="48" alt="ClickUp" /></a><br>ClickUp</td>
-    <td align="center" width="96"><a href="https://slack.com/" title="Slack"><img src="https://cdn.simpleicons.org/slack/4A154B" width="48" height="48" alt="Slack" /></a><br>Slack</td>
+    <td align="center" width="96"><a href="https://slack.com/" title="Slack"><img src="https://www.google.com/s2/favicons?domain=slack.com&sz=128" width="48" height="48" alt="Slack" /></a><br>Slack</td>
     <td align="center" width="96"><a href="https://n8n.io/" title="n8n"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" /></a><br>n8n</td>
     <td align="center" width="96"><a href="https://zapier.com/" title="Zapier"><img src="https://cdn.simpleicons.org/zapier/FF4A00" width="48" height="48" alt="Zapier" /></a><br>Zapier</td>
   </tr>
