@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Syed+Muhammad+Ali;Full-Stack+Software+Engineer;AI+Engineering+%7C+LLMs+%7C+RAG;Workflow+Automation+with+n8n;Always+learning+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Syed+Muhammad+Ali;Full-Stack+Software+Engineer;AI+Engineering+%7C+LLMs+%7C+RAG;AI+Agents+%7C+Multimodal+AI;Workflow+Automation+with+n8n;Always+learning+and+building" alt="Typing SVG" />
 </p>
+
 
 <h4 align="center">Full-Stack Software Engineer | AI Engineer | Automation Enthusiast</h4>
 <h4 align="center">FAST-NUCES '25 · Building scalable applications and intelligent workflows</h4>
