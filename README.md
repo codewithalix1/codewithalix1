@@ -8,15 +8,6 @@
 <h4 align="center">FAST-NUCES '25 · Building scalable applications and intelligent workflows</h4>
 
 <p align="center">
-  <a href="https://github.com/codewithalix1?tab=followers">
-    <img src="https://img.shields.io/github/followers/codewithalix1?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/codewithalix1?tab=repositories">
-    <img src="https://img.shields.io/github/stars/codewithalix1?style=social" alt="GitHub stars" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=codewithalix1">
-    <img src="https://komarev.com/ghpvc/?username=codewithalix1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
   <a href="mailto:alimuhammadsyed296@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -27,36 +18,11 @@
 
 ---
 
-<h1>📊 GitHub Stats and Activity</h1>
+&#x20;Full Stack Software and AI Engineer specializing in full-stack development and AI engineering, with experience building scalable web applications,
 
-<p align="center">
-  <a href="https://github.com/codewithalix1">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewithalix1&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" alt="Syed Muhammad Ali's GitHub stats" />
-  </a>
-  <a href="https://github.com/codewithalix1">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=codewithalix1&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak stats" />
-  </a>
-</p>
+backend systems, APIs, databases, and cloud-based solutions. Skilled in LLMs, RAG, AI agents, multimodal AI, and workflow
 
-<p align="center">
-  <a href="https://github.com/codewithalix1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithalix1&layout=compact&theme=gotham&hide_border=true&langs_count=10" alt="Most used languages" />
-  </a>
-</p>
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithalix1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
-- 🔭 I build full-stack web applications, APIs, and database-backed products.
-- 🤖 I’m exploring LLMs, RAG, AI agents, and generative AI applications.
-- ⚙️ I build workflow and business-process automations with n8n.
-- 🌱 I’m continuously learning about cloud, DevOps, and production-ready software.
-- 🤝 Interested in collaborating on full-stack, AI, and automation projects.
+automation, with a strong focus on delivering secure, high-performance, maintainable, and production-ready software.
 
 ---
 
