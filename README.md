@@ -62,135 +62,66 @@
 
 # 💻 My Favorite Tools and Technologies
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <h3 align="center">Frontend</h3>
+<div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tr>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br>HTML</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /><br>jQuery</td>
-    </tr>
-    <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br>CSS</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br>Tailwind CSS</td>
-    </tr>
-  </table>
-  <br>
-  <h3 align="center">Backend</h3>
-  <table align="center">
-    <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>Flask</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="REST APIs" /><br>REST APIs</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=socketio" width="48" height="48" alt="Socket.IO" /><br>Socket.IO</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>Django</td>
-    </tr>
-    <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" /><br>Prisma</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/drizzle/C5F74F" width="48" height="48" alt="Drizzle ORM" /><br>Drizzle ORM</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django REST Framework" /><br>Django REST Framework</td>
-    </tr>
-  </table>
-  <br>
-  <h3 align="center">Databases</h3>
-  <table align="center">
-    <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
-    </tr>
-  </table>
-  <br>
-  <h3 align="center">AI / ML</h3>
-  <table align="center">
-    <tr>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="Large Language Models" /><br>Large Language Models</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="Prompt Engineering" /><br>Prompt Engineering</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" /><br>LangChain</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/pinecone/000000" width="48" height="48" alt="Vector Databases" /><br>Vector Databases</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface/FCC624" width="48" height="48" alt="Transformers" /><br>Transformers</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="LLMs" /><br>LLMs</td>
-    </tr>
-    <tr>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="RAG" /><br>RAG</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="AI Agents" /><br>AI Agents</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="Multimodal AI" /><br>Multimodal AI</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangGraph" /><br>LangGraph</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="Whisper AI" /><br>Whisper AI</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="DALL-E" /><br>DALL-E</td>
-    </tr>
-    <tr>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface/FCC624" width="48" height="48" alt="Embeddings" /><br>Embeddings</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/elasticsearch/005571" width="48" height="48" alt="Semantic Search" /><br>Semantic Search</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface/FCC624" width="48" height="48" alt="Hugging Face API" /><br>Hugging Face API</td>
-    </tr>
-  </table>
-  <br>
-  <h3 align="center">Cloud & Infrastructure</h3>
-  <table align="center">
-    <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud Platform" /><br>Google Cloud Platform</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br>Supabase</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase</td>
-    </tr>
-  </table>
-  <br>
-  <h3 align="center">Authentication</h3>
-  <table align="center">
-    <tr>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT" /><br>JWT</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/oauth/000000" width="48" height="48" alt="OAuth" /><br>OAuth</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/auth0/EB5424" width="48" height="48" alt="Token-based" /><br>Token-based</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Cookie-based" /><br>Cookie-based</td>
-    </tr>
-  </table>
-  <br>
-  <h3 align="center">DevOps & Version Control</h3>
-  <table align="center">
-    <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" /><br>CI/CD</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Microservices" /><br>Microservices</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
     </tr>
-  </table>
-  <br>
-  <h3 align="center">Hosting</h3>
-  <table align="center">
     <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br>Tailwind CSS</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /><br>jQuery</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" /><br>Express.js</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>NestJS</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>Django</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br>FastAPI</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /><br>Flask</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /><br>GraphQL</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br>Supabase</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" /><br>Prisma</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>AWS</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" /><br>Google Cloud</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /><br>Vercel</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /><br>Netlify</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=render" width="48" height="48" alt="Render" /><br>Render</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=railway" width="48" height="48" alt="Railway" /><br>Railway</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
     </tr>
-  </table>
-  <br>
-  <h3 align="center">Workflow Management</h3>
-  <table align="center">
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" /><br>Notion</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=trello" width="48" height="48" alt="Trello" /><br>Trello</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=clickup" width="48" height="48" alt="ClickUp" /><br>ClickUp</td>
-    </tr>
-  </table>
-  <br>
-  <h3 align="center">Automations</h3>
-  <table align="center">
-    <tr>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" /><br>OpenAI</td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="48" height="48" alt="Claude" /><br>Claude</td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" /><br>Gemini</td>
+      <td align="center" width="96"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" /><br>LangChain</td>
+      <td align="center" width="96"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" /><br>Hugging Face</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ollama" width="48" height="48" alt="Ollama" /><br>Ollama</td>
       <td align="center" width="96"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" /><br>n8n</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/zapier/FF4A00" width="48" height="48" alt="Zapier" /><br>Zapier</td>
-      <td align="center" width="96"><img src="https://cdn.simpleicons.org/make/6D00CC" width="48" height="48" alt="Make" /><br>Make</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=slack" width="48" height="48" alt="Slack" /><br>Slack</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" /><br>Notion</td>
     </tr>
   </table>
   <br>
 </div>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" style="max-width: 100%;" />
