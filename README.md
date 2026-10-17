@@ -133,7 +133,7 @@
 
 <p align="center">
   <a href="https://github.com/codewithalix1">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   &nbsp;
   <a href="https://syed-muhammad-ali.netlify.app/">
