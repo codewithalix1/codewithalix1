@@ -8,14 +8,17 @@
 <h4 align="center">Full-Stack Software Engineer | AI Engineer | Automation Specialist</h4>
 <h4 align="center">FAST-NUCES '25 · Building scalable applications and intelligent workflows</h4>
 
+
 <p align="center">
   <a href="mailto:alimuhammadsyed296@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/✉%20Email-alimuhammadsyed296%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: alimuhammadsyed296@gmail.com" />
   </a>
+  &nbsp;
   <a href="https://syed-muhammad-ali.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-Explore%20My%20Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
   </a>
 </p>
+
 
 ---
 
