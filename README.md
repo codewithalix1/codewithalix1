@@ -130,12 +130,18 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" style="max-width: 100%;" />
-</p>
 
 <p align="center">
-  <a href="https://github.com/codewithalix1"><img src="https://img.shields.io/badge/GitHub-codewithalix1-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <a href="https://syed-muhammad-ali.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:alimuhammadsyed296@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/codewithalix1">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  &nbsp;
+  <a href="https://syed-muhammad-ali.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:muhammadsyed296@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: muhammadsyed296@gmail.com" />
+  </a>
 </p>
+
