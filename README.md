@@ -49,7 +49,7 @@ I'm a **Full-Stack Software Engineer and AI Engineer** specializing in web appli
 <p align="left">
   <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React" /></a>&nbsp;
   <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="64" height="64" alt="Next.js" /></a>&nbsp;
-  <a href="https://tanstack.com/query" title="TanStack Query"><img src="https://cdn.simpleicons.org/reactquery" width="64" height="64" alt="React Query" /></a>&nbsp;
+  <a href="https://tanstack.com/query" title="TanStack Query"><img src="https://cdn.simpleicons.org/tanstack" width="64" height="64" alt="React Query" /></a>&nbsp;
   <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="64" height="64" alt="Tailwind CSS" /></a>&nbsp;
   <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="64" height="64" alt="Bootstrap" /></a>&nbsp;
   <a href="https://mui.com/" title="Material UI"><img src="https://skillicons.dev/icons?i=materialui" width="64" height="64" alt="Material UI" /></a>&nbsp;
@@ -144,12 +144,12 @@ I'm a **Full-Stack Software Engineer and AI Engineer** specializing in web appli
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/RBAC-1D4ED8?style=for-the-badge" height="32" alt="Role Based Access Control" />&nbsp;
-  <img src="https://img.shields.io/badge/2FA-047857?style=for-the-badge" height="32" alt="Two Factor Authentication" />&nbsp;
-  <img src="https://img.shields.io/badge/SDLC-334155?style=for-the-badge" height="32" alt="Software Development Life Cycle" />&nbsp;
+  <img src="https://img.shields.io/badge/RBAC-Role%20Based%20Access%20Control-1D4ED8?style=for-the-badge" height="32" alt="Role Based Access Control" />&nbsp;
+  <img src="https://img.shields.io/badge/2FA-Two%20Factor%20Authentication-047857?style=for-the-badge" height="32" alt="Two Factor Authentication" />&nbsp;
+  <img src="https://img.shields.io/badge/SDLC-Software%20Development%20Life%20Cycle-334155?style=for-the-badge" height="32" alt="Software Development Life Cycle" />&nbsp;
   <img src="https://img.shields.io/badge/Agile-7C3AED?style=for-the-badge" height="32" alt="Agile" />&nbsp;
-  <img src="https://img.shields.io/badge/OOP-0369A1?style=for-the-badge" height="32" alt="Object Oriented Programming" />&nbsp;
-  <img src="https://img.shields.io/badge/MVC-475569?style=for-the-badge" height="32" alt="Model View Controller" />
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-0369A1?style=for-the-badge" height="32" alt="Object Oriented Programming" />&nbsp;
+  <img src="https://img.shields.io/badge/MVC-Model%20View%20Controller-475569?style=for-the-badge" height="32" alt="Model View Controller" />
 </p>
 
 **Design Patterns:** Facade · Factory · Singleton
