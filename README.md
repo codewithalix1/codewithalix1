@@ -28,11 +28,11 @@ automation, with a strong focus on delivering secure, high-performance, maintain
 
 # 💻 My Favorite Tools and Technologies
 
-All technologies are displayed together in **one unified table**, without category headings. Brand icons link to their official websites; concepts without dedicated logos use labeled badges or relevant site icons.
+All technologies are displayed together in **one unified table**, without category headings. Brand icons link to their official websites; abstract concepts use purpose-made conceptual icons rather than logos from unrelated technologies.
 
 <table align="center" border="1" cellpadding="8" cellspacing="0">
   <tr>
-    <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies" title="Cookie-based"><img src="https://api.iconify.design/mdi/cookie.svg?color=%23D97706" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td>
+    <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" title="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td>
     <td align="center" width="96"><a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a><br>TypeScript</td>
     <td align="center" width="96"><a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a><br>Python</td>
     <td align="center" width="96"><a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></a><br>Java</td>
@@ -57,15 +57,14 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /></a><br>Flask</td>
     <td align="center" width="96"><a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a><br>FastAPI</td>
     <td align="center" width="96"><a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /></a><br>Django</td>
-    
     <td align="center" width="96"><a href="https://socket.io/" title="Socket.IO"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="48" height="48" alt="Socket.IO" /></a><br>Socket.IO</td>
     <td align="center" width="96"><a href="https://www.django-rest-framework.org/" title="Django REST Framework"><img src="https://cdn.simpleicons.org/django/092E20" width="48" height="48" alt="Django REST Framework" /></a><br>Django REST Framework</td>
     <td align="center" width="96"><a href="https://www.prisma.io/" title="Prisma"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" height="48" alt="Prisma" /></a><br>Prisma</td>
     <td align="center" width="96"><a href="https://orm.drizzle.team/" title="Drizzle ORM"><img src="https://cdn.simpleicons.org/drizzle/C5F74F" width="48" height="48" alt="Drizzle ORM" /></a><br>Drizzle ORM</td>
     <td align="center" width="96"><a href="https://graphql.org/" title="GraphQL"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a><br>GraphQL</td>
+    <td align="center" width="96"><a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a><br>PostgreSQL</td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a><br>PostgreSQL</td>
     <td align="center" width="96"><a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a><br>MySQL</td>
     <td align="center" width="96"><a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a><br>MongoDB</td>
     <td align="center" width="96"><a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /></a><br>Supabase</td>
@@ -74,32 +73,31 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://www.trychroma.com/" title="Chroma"><img src="https://www.google.com/s2/favicons?domain=trychroma.com&sz=128" width="48" height="48" alt="Chroma" /></a><br>Chroma</td>
     <td align="center" width="96"><a href="https://openai.com/" title="OpenAI"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="OpenAI" /></a><br>OpenAI</td>
     <td align="center" width="96"><a href="https://claude.com/" title="Claude"><img src="https://www.google.com/s2/favicons?domain=claude.com&sz=128" width="48" height="48" alt="Claude" /></a><br>Claude</td>
+    <td align="center" width="96"><a href="https://ai.google.dev/" title="Gemini"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" /></a><br>Gemini</td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="https://ai.google.dev/" title="Gemini"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" /></a><br>Gemini</td>
     <td align="center" width="96"><a href="https://ollama.com/" title="Ollama"><img src="https://cdn.simpleicons.org/ollama/000000" width="48" height="48" alt="Ollama" /></a><br>Ollama</td>
     <td align="center" width="96"><a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" /></a><br>LangChain</td>
     <td align="center" width="96"><a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="LangGraph" /></a><br>LangGraph</td>
     <td align="center" width="96"><a href="https://huggingface.co/" title="Hugging Face"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=128" width="48" height="48" alt="Hugging Face" /></a><br>Hugging Face</td>
-    
-    <td align="center" width="96"><a href="https://openai.com/" title="LLMs"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="LLMs" /></a><br>LLMs</td>
-    <td align="center" width="96"><a href="https://claude.com/" title="Prompt Engineering"><img src="https://www.google.com/s2/favicons?domain=claude.com&sz=128" width="48" height="48" alt="Prompt Engineering" /></a><br>Prompt Engineering</td>
+    <td align="center" width="96"><a href="https://en.wikipedia.org/wiki/Large_language_model" title="LLMs"><img src="https://api.iconify.design/mdi/brain.svg?color=%237C3AED" width="48" height="48" alt="LLMs" /></a><br>LLMs</td>
+    <td align="center" width="96"><a href="https://www.promptingguide.ai/" title="Prompt Engineering"><img src="https://api.iconify.design/mdi/message-text-outline.svg?color=%230D9488" width="48" height="48" alt="Prompt Engineering" /></a><br>Prompt Engineering</td>
     <td align="center" width="96"><a href="https://www.pinecone.io/" title="Vector Databases"><img src="https://www.google.com/s2/favicons?domain=pinecone.io&sz=128" width="48" height="48" alt="Vector Databases" /></a><br>Vector Databases</td>
+    <td align="center" width="96"><a href="https://huggingface.co/docs/transformers/index" title="Transformers"><img src="https://api.iconify.design/mdi/swap-horizontal.svg?color=%230D9488" width="48" height="48" alt="Transformers" /></a><br>Transformers</td>
+    <td align="center" width="96"><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" title="RAG"><img src="https://api.iconify.design/mdi/database-search.svg?color=%230D9488" width="48" height="48" alt="RAG" /></a><br>RAG</td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="https://huggingface.co/" title="Transformers"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=128" width="48" height="48" alt="Transformers" /></a><br>Transformers</td>
-    <td align="center" width="96"><a href="https://www.langchain.com/" title="RAG"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="RAG" /></a><br>RAG</td>
-    <td align="center" width="96"><a href="https://www.langchain.com/langgraph" title="AI Agents"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="AI Agents" /></a><br>AI Agents</td>
-    <td align="center" width="96"><a href="https://openai.com/" title="Multimodal AI"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="Multimodal AI" /></a><br>Multimodal AI</td>
+    <td align="center" width="96"><a href="https://en.wikipedia.org/wiki/Intelligent_agent" title="AI Agents"><img src="https://api.iconify.design/mdi/robot-outline.svg?color=%237C3AED" width="48" height="48" alt="AI Agents" /></a><br>AI Agents</td>
+    <td align="center" width="96"><a href="https://en.wikipedia.org/wiki/Multimodal_learning" title="Multimodal AI"><img src="https://api.iconify.design/mdi/brain.svg?color=%237C3AED" width="48" height="48" alt="Multimodal AI" /></a><br>Multimodal AI</td>
     <td align="center" width="96"><a href="https://whisperai.com/" title="Whisper AI"><img src="https://www.google.com/s2/favicons?domain=whisperai.com&sz=128" width="48" height="48" alt="Whisper AI" /></a><br>Whisper AI</td>
-    <td align="center" width="96"><a href="https://openai.com/" title="DALL-E"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="DALL-E" /></a><br>DALL-E</td>
-    <td align="center" width="96"><a href="https://www.pinecone.io/" title="Embeddings"><img src="https://www.google.com/s2/favicons?domain=pinecone.io&sz=128" width="48" height="48" alt="Embeddings" /></a><br>Embeddings</td>
-    <td align="center" width="96"><a href="https://www.pinecone.io/" title="Semantic Search"><img src="https://www.google.com/s2/favicons?domain=pinecone.io&sz=128" width="48" height="48" alt="Semantic Search" /></a><br>Semantic Search</td>
+    <td align="center" width="96"><a href="https://openai.com/" title="DALL-E"><img src="https://api.iconify.design/mdi/palette-outline.svg?color=%23D97706" width="48" height="48" alt="DALL-E" /></a><br>DALL-E</td>
+    <td align="center" width="96"><a href="https://en.wikipedia.org/wiki/Word_embedding" title="Embeddings"><img src="https://api.iconify.design/mdi/vector-polyline.svg?color=%230D9488" width="48" height="48" alt="Embeddings" /></a><br>Embeddings</td>
+    <td align="center" width="96"><a href="https://en.wikipedia.org/wiki/Semantic_search" title="Semantic Search"><img src="https://api.iconify.design/mdi/text-search.svg?color=%230D9488" width="48" height="48" alt="Semantic Search" /></a><br>Semantic Search</td>
     <td align="center" width="96"><a href="https://huggingface.co/" title="Hugging Face API"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=128" width="48" height="48" alt="Hugging Face API" /></a><br>Hugging Face API</td>
-  </tr>
-  <tr>
     <td align="center" width="96"><a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a><br>AWS</td>
     <td align="center" width="96"><a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud Platform" /></a><br>Google Cloud Platform</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a><br>Docker</td>
     <td align="center" width="96"><a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a><br>Linux</td>
     <td align="center" width="96"><a href="https://docs.github.com/en/actions" title="CI/CD"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="48" height="48" alt="CI/CD" /></a><br>CI/CD</td>
@@ -107,27 +105,27 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /></a><br>Vercel</td>
     <td align="center" width="96"><a href="https://www.netlify.com/" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /></a><br>Netlify</td>
     <td align="center" width="96"><a href="https://render.com/" title="Render"><img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render" /></a><br>Render</td>
+    <td align="center" width="96"><a href="https://railway.app/" title="Railway"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48" alt="Railway" /></a><br>Railway</td>
+    <td align="center" width="96"><a href="https://jwt.io/" title="JWT"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT" /></a><br>JWT</td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="https://railway.app/" title="Railway"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48" alt="Railway" /></a><br>Railway</td>
-    
-    <td align="center" width="96"><a href="https://jwt.io/" title="JWT"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT" /></a><br>JWT</td>
     <td align="center" width="96"><a href="https://oauth.net/2/" title="OAuth"><img src="https://www.google.com/s2/favicons?domain=oauth.net&sz=128" width="48" height="48" alt="OAuth" /></a><br>OAuth</td>
-    <td align="center" width="96"><a href="https://jwt.io/" title="Authentication"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="Authentication" /></a><br>Authentication</td>
-    <td align="center" width="96"><a href="https://jwt.io/" title="Token-based"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="Token-based" /></a><br>Token-based</td>
-    <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies" title="Cookie-based"><img src="https://cdn.simpleicons.org/cookiecutter/FFA500" width="48" height="48" alt="Cookie-based" /></a><br>Cookie-based</td>
+    <td align="center" width="96"><a href="https://en.wikipedia.org/wiki/Authentication" title="Authentication"><img src="https://api.iconify.design/mdi/shield-key-outline.svg?color=%230D9488" width="48" height="48" alt="Authentication" /></a><br>Authentication</td>
+    <td align="center" width="96"><a href="https://jwt.io/" title="Token-based"><img src="https://api.iconify.design/mdi/key-chain-variant.svg?color=%230D9488" width="48" height="48" alt="Token-based" /></a><br>Token-based</td>
+    <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies" title="Cookie-based"><img src="https://api.iconify.design/mdi/cookie.svg?color=%23D97706" width="48" height="48" alt="Cookie-based" /></a><br>Cookie-based</td>
     <td align="center" width="96"><a href="https://www.postman.com/" title="Postman"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" /></a><br>Postman</td>
     <td align="center" width="96"><a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a><br>VS Code</td>
-  </tr>
-  <tr>
     <td align="center" width="96"><a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /></a><br>Figma</td>
     <td align="center" width="96"><a href="https://www.notion.so/" title="Notion"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" /></a><br>Notion</td>
     <td align="center" width="96"><a href="https://trello.com/" title="Trello"><img src="https://www.google.com/s2/favicons?domain=trello.com&sz=128" width="48" height="48" alt="Trello" /></a><br>Trello</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><a href="https://clickup.com/" title="ClickUp"><img src="https://cdn.simpleicons.org/clickup/7B68EE" width="48" height="48" alt="ClickUp" /></a><br>ClickUp</td>
     <td align="center" width="96"><a href="https://slack.com/" title="Slack"><img src="https://www.google.com/s2/favicons?domain=slack.com&sz=128" width="48" height="48" alt="Slack" /></a><br>Slack</td>
     <td align="center" width="96"><a href="https://n8n.io/" title="n8n"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" /></a><br>n8n</td>
     <td align="center" width="96"><a href="https://zapier.com/" title="Zapier"><img src="https://cdn.simpleicons.org/zapier/FF4A00" width="48" height="48" alt="Zapier" /></a><br>Zapier</td>
     <td align="center" width="96"><a href="https://www.make.com/" title="Make"><img src="https://cdn.simpleicons.org/make/6D00CC" width="48" height="48" alt="Make" /></a><br>Make</td>
+    <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods" title="REST APIs"><img src="https://api.iconify.design/mdi/api.svg?color=%230D9488" width="48" height="48" alt="REST APIs" /></a><br>REST APIs</td>
   </tr>
 </table>
 
