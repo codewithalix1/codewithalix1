@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Syed Muhammad Ali
 ### Full-Stack Software Engineer | AI Engineer
@@ -31,8 +31,6 @@ I'm a **Full-Stack Software Engineer and AI Engineer** specializing in web appli
 - 🔐 Secure, maintainable, and production-ready software
 
 ## 🛠️ Technology Stack
-
-> All technology logos use a consistent **64 × 64 px image size**. Click any icon to visit its official website or documentation. Where a technology does not have a suitable Skillicons icon, a Simple Icons logo is used instead.
 
 ### 💻 Languages
 
@@ -71,29 +69,30 @@ I'm a **Full-Stack Software Engineer and AI Engineer** specializing in web appli
 ### 🤖 AI, LLMs & Generative AI
 
 <p align="left">
-  <a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain" width="64" height="64" alt="LangChain" /></a>&nbsp;
-  <a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph" width="64" height="64" alt="LangGraph" /></a>&nbsp;
-  <a href="https://huggingface.co/" title="Hugging Face"><img src="https://skillicons.dev/icons?i=huggingface" width="64" height="64" alt="Hugging Face" /></a>&nbsp;
-  <a href="https://openai.com/" title="OpenAI"><img src="https://skillicons.dev/icons?i=openai" width="64" height="64" alt="OpenAI" /></a>&nbsp;
-  <a href="https://ai.google.dev/" title="Google Gemini"><img src="https://cdn.simpleicons.org/googlegemini" width="64" height="64" alt="Google Gemini" /></a>&nbsp;
-  <a href="https://www.pinecone.io/" title="Pinecone"><img src="https://cdn.simpleicons.org/pinecone" width="64" height="64" alt="Pinecone" /></a>&nbsp;
-  <a href="https://www.trychroma.com/" title="Chroma"><img src="https://cdn.simpleicons.org/chroma" width="64" height="64" alt="Chroma" /></a>&nbsp;
-  <a href="https://ollama.com/" title="Ollama"><img src="https://cdn.simpleicons.org/ollama" width="64" height="64" alt="Ollama" /></a>
+  <a href="https://www.anthropic.com/claude" title="Claude"><img src="https://cdn.simpleicons.org/claude/D97757" width="56" height="56" alt="Claude" /></a>&nbsp;&nbsp;
+  <a href="https://openai.com/" title="OpenAI"><img src="https://cdn.simpleicons.org/openai/412991" width="56" height="56" alt="OpenAI" /></a>&nbsp;&nbsp;
+  <a href="https://ai.google.dev/" title="Google Gemini"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="56" height="56" alt="Google Gemini" /></a>&nbsp;&nbsp;
+  <a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="56" height="56" alt="LangChain" /></a>&nbsp;&nbsp;
+  <a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="56" height="56" alt="LangGraph" /></a>
+</p>
+<p align="left">
+  <a href="https://huggingface.co/" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="56" height="56" alt="Hugging Face" /></a>&nbsp;&nbsp;
+  <a href="https://www.pinecone.io/" title="Pinecone"><img src="https://cdn.simpleicons.org/pinecone/000000" width="56" height="56" alt="Pinecone" /></a>&nbsp;&nbsp;
+  <a href="https://www.trychroma.com/" title="Chroma"><img src="https://cdn.simpleicons.org/chroma/FF6446" width="56" height="56" alt="Chroma" /></a>&nbsp;&nbsp;
+  <a href="https://ollama.com/" title="Ollama"><img src="https://cdn.simpleicons.org/ollama/000000" width="56" height="56" alt="Ollama" /></a>
 </p>
 
-**AI Engineering Skills**
-
 <p align="left">
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" height="32" alt="LLMs" />&nbsp;
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" height="32" alt="Retrieval Augmented Generation" />&nbsp;
-  <img src="https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge" height="32" alt="AI Agents" />&nbsp;
-  <img src="https://img.shields.io/badge/Multimodal_AI-7C3AED?style=for-the-badge" height="32" alt="Multimodal AI" />&nbsp;
-  <img src="https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge" height="32" alt="Embeddings" />&nbsp;
-  <img src="https://img.shields.io/badge/Semantic_Search-0369A1?style=for-the-badge" height="32" alt="Semantic Search" />&nbsp;
-  <img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge" height="32" alt="Prompt Engineering" />&nbsp;
-  <img src="https://img.shields.io/badge/Whisper_AI-10A37F?style=for-the-badge" height="32" alt="Whisper AI" />&nbsp;
-  <img src="https://img.shields.io/badge/DALL--E-412991?style=for-the-badge" height="32" alt="DALL-E" />&nbsp;
-  <img src="https://img.shields.io/badge/Tool_Calling-334155?style=for-the-badge" height="32" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/🧠_LLMs-111827?style=for-the-badge" height="48" alt="LLMs" />&nbsp;
+  <img src="https://img.shields.io/badge/📚_RAG-0F766E?style=for-the-badge" height="48" alt="Retrieval Augmented Generation" />&nbsp;
+  <img src="https://img.shields.io/badge/🤖_AI_Agents-6D28D9?style=for-the-badge" height="48" alt="AI Agents" />&nbsp;
+  <img src="https://img.shields.io/badge/🌐_Multimodal_AI-7C3AED?style=for-the-badge" height="48" alt="Multimodal AI" />&nbsp;
+  <img src="https://img.shields.io/badge/🔢_Embeddings-2563EB?style=for-the-badge" height="48" alt="Embeddings" />&nbsp;
+  <img src="https://img.shields.io/badge/🔎_Semantic_Search-0369A1?style=for-the-badge" height="48" alt="Semantic Search" />&nbsp;
+  <img src="https://img.shields.io/badge/✍️_Prompt_Engineering-9333EA?style=for-the-badge" height="48" alt="Prompt Engineering" />&nbsp;
+  <img src="https://img.shields.io/badge/🎙️_Whisper_AI-10A37F?style=for-the-badge" height="48" alt="Whisper AI" />&nbsp;
+  <img src="https://img.shields.io/badge/🎨_DALL--E-412991?style=for-the-badge" height="48" alt="DALL-E" />&nbsp;
+  <img src="https://img.shields.io/badge/🛠️_Tool_Calling-334155?style=for-the-badge" height="48" alt="Tool Calling" />
 </p>
 
 ### 🗄️ Databases & ORMs
@@ -149,12 +148,12 @@ I'm a **Full-Stack Software Engineer and AI Engineer** specializing in web appli
   <img src="https://img.shields.io/badge/SDLC-Software%20Development%20Life%20Cycle-334155?style=for-the-badge" height="32" alt="Software Development Life Cycle" />&nbsp;
   <img src="https://img.shields.io/badge/Agile-7C3AED?style=for-the-badge" height="32" alt="Agile" />&nbsp;
   <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-0369A1?style=for-the-badge" height="32" alt="Object Oriented Programming" />&nbsp;
-  <img src="https://img.shields.io/badge/MVC-Model%20View%20Controller-475569?style=for-the-badge" height="32" alt="Model View Controller" />
+  <img src="https://img.shields.io/badge/MVC-Model%20View%20Controller-475569?style=for-the-badge" height="32" alt="Model View Controller" />&nbsp;
+  <img src="https://img.shields.io/badge/Design%20Patterns-Facade%20%7C%20Factory%20%7C%20Singleton-7C3AED?style=for-the-badge" height="32" alt="Design Patterns: Facade, Factory, Singleton" />&nbsp;
+  <img src="https://img.shields.io/badge/API%20Development-REST%20APIs-2563EB?style=for-the-badge" height="32" alt="API Development: REST APIs" />&nbsp;
+  <img src="https://img.shields.io/badge/Integrations-Third--Party-0F766E?style=for-the-badge" height="32" alt="Third-party integrations" />&nbsp;
+  <img src="https://img.shields.io/badge/Auth-Authentication%20%26%20Authorization-334155?style=for-the-badge" height="32" alt="Authentication and authorization" />
 </p>
-
-**Design Patterns:** Facade · Factory · Singleton
-
-**API Development:** REST APIs · Third-party integrations · Authentication and authorization
 
 ---
 
