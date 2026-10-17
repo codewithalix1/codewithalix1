@@ -28,39 +28,195 @@ automation, with a strong focus on delivering secure, high-performance, maintain
 
 # 💻 Tech Stack & Technologies
 
-Technologies and concepts are grouped by area. Brand/technology logos are used where an official Simple Icons logo exists; general concepts (such as REST APIs, RAG, and authentication methods) use text-only badges rather than a misleading logo.
+Technologies are organized by category. Recognizable technologies use their matching logo icons; concepts and practices use labeled badges where there is no dedicated technology logo.
 
-### Frontend
+### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="64" height="64" alt="JavaScript" /></a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="64" height="64" alt="TypeScript" /></a>
+  &nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="64" height="64" alt="Python" /></a>
+  &nbsp;
+  <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" width="64" height="64" alt="Java" /></a>
+  &nbsp;
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="64" height="64" alt="C++" /></a>
+  &nbsp;
+  <a href="https://html.spec.whatwg.org/" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="64" height="64" alt="HTML" /></a>
+  &nbsp;
+  <a href="https://www.w3.org/Style/CSS/" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="64" height="64" alt="CSS" /></a>
+</p>
 
-### Backend & APIs
+### 🎨 Frontend Development
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black) ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+<p align="left">
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React" /></a>
+  &nbsp;
+  <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="64" height="64" alt="Next.js" /></a>
+  &nbsp;
+  <a href="https://jquery.com/" title="jQuery"><img src="https://skillicons.dev/icons?i=jquery" width="64" height="64" alt="jQuery" /></a>
+  &nbsp;
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="64" height="64" alt="Tailwind CSS" /></a>
+  &nbsp;
+  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="64" height="64" alt="Bootstrap" /></a>
+  &nbsp;
+  <a href="https://mui.com/" title="Material UI"><img src="https://skillicons.dev/icons?i=materialui" width="64" height="64" alt="Material UI" /></a>
+</p>
 
-### Databases
+### ⚙️ Backend, APIs & Real-Time
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Vector Databases](https://img.shields.io/badge/Vector_Databases-008080?style=flat)
+<p align="left">
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="64" height="64" alt="Node.js" /></a>
+  &nbsp;
+  <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="64" height="64" alt="Express.js" /></a>
+  &nbsp;
+  <a href="https://nestjs.com/" title="NestJS"><img src="https://skillicons.dev/icons?i=nestjs" width="64" height="64" alt="NestJS" /></a>
+  &nbsp;
+  <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?i=flask" width="64" height="64" alt="Flask" /></a>
+  &nbsp;
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" alt="FastAPI" /></a>
+  &nbsp;
+  <a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" width="64" height="64" alt="Django" /></a>
+  &nbsp;
+  <a href="https://socket.io/" title="Socket.IO"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="56" height="56" alt="Socket.IO" /></a>
+  &nbsp;
+  <a href="https://www.django-rest-framework.org/" title="Django REST Framework"><img src="https://cdn.simpleicons.org/django/A30000" width="56" height="56" alt="Django REST Framework" /></a>
+  &nbsp;
+  <a href="https://www.prisma.io/" title="Prisma"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="56" height="56" alt="Prisma" /></a>
+  &nbsp;
+  <a href="https://orm.drizzle.team/" title="Drizzle ORM"><img src="https://cdn.simpleicons.org/drizzle/C5F74F" width="56" height="56" alt="Drizzle ORM" /></a>
+  &nbsp;
+  <a href="https://graphql.org/" title="GraphQL"><img src="https://cdn.simpleicons.org/graphql/E10098" width="56" height="56" alt="GraphQL" /></a>
+</p>
 
-### AI / ML & Generative AI
+**API style**
 
-<img src="https://cdn.simpleicons.org/openai/412991" width="18" height="18" alt="OpenAI logo" /> OpenAI · <img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="18" height="18" alt="Anthropic logo" /> Claude · <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="18" height="18" alt="Google Gemini logo" /> Gemini · <img src="https://cdn.simpleicons.org/ollama/000000" width="18" height="18" alt="Ollama logo" /> Ollama · <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="18" height="18" alt="LangChain logo" /> LangChain · <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="18" height="18" alt="Hugging Face logo" /> Hugging Face ![Large Language Models](https://img.shields.io/badge/Large_Language_Models-412991?style=flat) ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=flat) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![RAG](https://img.shields.io/badge/RAG-0A7E8C?style=flat) ![AI Agents](https://img.shields.io/badge/AI_Agents-6A5ACD?style=flat) ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-5B5BD6?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat) ![Whisper AI](https://img.shields.io/badge/Whisper_AI-412991?style=flat&logo=openai&logoColor=white) ![DALL-E](https://img.shields.io/badge/DALL--E-412991?style=flat&logo=openai&logoColor=white) ![Embeddings](https://img.shields.io/badge/Embeddings-287D72?style=flat) ![Semantic Search](https://img.shields.io/badge/Semantic_Search-287D72?style=flat) ![Hugging Face API](https://img.shields.io/badge/Hugging_Face_API-FFD21E?style=flat&logo=huggingface&logoColor=black)
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" height="32" alt="REST APIs" />
 
-### Cloud & Infrastructure
+### 🤖 AI, LLMs & Generative AI
 
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Microservices](https://img.shields.io/badge/Microservices-526CFE?style=flat) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+<p align="left">
+  <a href="https://openai.com/" title="OpenAI"><img src="https://cdn.simpleicons.org/openai/412991" width="56" height="56" alt="OpenAI" /></a>
+  &nbsp;
+  <a href="https://www.anthropic.com/claude" title="Claude"><img src="https://cdn.simpleicons.org/claude/D97757" width="56" height="56" alt="Claude" /></a>
+  &nbsp;
+  <a href="https://ai.google.dev/" title="Google Gemini"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="56" height="56" alt="Google Gemini" /></a>
+  &nbsp;
+  <a href="https://ollama.com/" title="Ollama"><img src="https://cdn.simpleicons.org/ollama/000000" width="56" height="56" alt="Ollama" /></a>
+  &nbsp;
+  <a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="56" height="56" alt="LangChain" /></a>
+  &nbsp;
+  <a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="56" height="56" alt="LangGraph" /></a>
+  &nbsp;
+  <a href="https://huggingface.co/" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="56" height="56" alt="Hugging Face" /></a>
+  &nbsp;
+  <a href="https://www.pinecone.io/" title="Pinecone"><img src="https://cdn.simpleicons.org/pinecone/000000" width="56" height="56" alt="Pinecone" /></a>
+  &nbsp;
+  <a href="https://www.trychroma.com/" title="Chroma"><img src="https://cdn.simpleicons.org/chroma/FF6446" width="56" height="56" alt="Chroma" /></a>
+</p>
 
-### Authentication & Security
+**AI / ML concepts and tools**
 
-![Authentication](https://img.shields.io/badge/Authentication-2F6F9F?style=flat) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=flat) ![Token-based Authentication](https://img.shields.io/badge/Token--based_Authentication-2F6F9F?style=flat) ![Cookie-based Authentication](https://img.shields.io/badge/Cookie--based_Authentication-2F6F9F?style=flat)
+  <img src="https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge" height="32" alt="Large Language Models" /> &nbsp; <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" height="32" alt="LLMs" /> &nbsp; <img src="https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=for-the-badge" height="32" alt="Prompt Engineering" /> &nbsp; <img src="https://img.shields.io/badge/Vector_Databases-008080?style=for-the-badge" height="32" alt="Vector Databases" /> &nbsp; <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge" height="32" alt="Transformers" /> &nbsp; <img src="https://img.shields.io/badge/RAG-0A7E8C?style=for-the-badge" height="32" alt="RAG" /> &nbsp; <img src="https://img.shields.io/badge/AI_Agents-6A5ACD?style=for-the-badge" height="32" alt="AI Agents" /> &nbsp; <img src="https://img.shields.io/badge/Multimodal_AI-5B5BD6?style=for-the-badge" height="32" alt="Multimodal AI" /> &nbsp; <img src="https://img.shields.io/badge/Whisper_AI-412991?style=for-the-badge" height="32" alt="Whisper AI" /> &nbsp; <img src="https://img.shields.io/badge/DALL-E-412991?style=for-the-badge" height="32" alt="DALL-E" /> &nbsp; <img src="https://img.shields.io/badge/Embeddings-287D72?style=for-the-badge" height="32" alt="Embeddings" /> &nbsp; <img src="https://img.shields.io/badge/Semantic_Search-287D72?style=for-the-badge" height="32" alt="Semantic Search" /> &nbsp; <img src="https://img.shields.io/badge/Hugging_Face_API-FFD21E?style=for-the-badge" height="32" alt="Hugging Face API" />
 
-### DevOps, Version Control & Hosting
+### 🗄️ Databases & ORMs
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p align="left">
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="64" height="64" alt="PostgreSQL" /></a>
+  &nbsp;
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="64" height="64" alt="MySQL" /></a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="64" height="64" alt="MongoDB" /></a>
+  &nbsp;
+  <a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="64" height="64" alt="Supabase" /></a>
+  &nbsp;
+  <a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" width="64" height="64" alt="Firebase" /></a>
+  &nbsp;
+  <a href="https://www.prisma.io/" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" width="64" height="64" alt="Prisma" /></a>
+  &nbsp;
+  <a href="https://orm.drizzle.team/" title="Drizzle ORM"><img src="https://cdn.simpleicons.org/drizzle/C5F74F" width="56" height="56" alt="Drizzle ORM" /></a>
+</p>
 
-### Workflow Management & Automation
+### ☁️ Cloud, Infrastructure & DevOps
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white) <img src="https://cdn.simpleicons.org/slack/4A154B" width="18" height="18" alt="Slack official logo" /> Slack
+<p align="left">
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="64" height="64" alt="AWS" /></a>
+  &nbsp;
+  <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="https://skillicons.dev/icons?i=gcp" width="64" height="64" alt="Google Cloud Platform" /></a>
+  &nbsp;
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="64" height="64" alt="Docker" /></a>
+  &nbsp;
+  <a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="64" height="64" alt="Linux" /></a>
+  &nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" width="64" height="64" alt="Git" /></a>
+  &nbsp;
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="64" height="64" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://docs.github.com/en/actions" title="CI/CD"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="56" height="56" alt="CI/CD" /></a>
+</p>
+
+**Engineering architecture and delivery**
+
+  <img src="https://img.shields.io/badge/Microservices-526CFE?style=for-the-badge" height="32" alt="Microservices" />
+
+### 🚀 Hosting & Deployment
+
+<p align="left">
+  <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="64" height="64" alt="Vercel" /></a>
+  &nbsp;
+  <a href="https://www.netlify.com/" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" width="64" height="64" alt="Netlify" /></a>
+  &nbsp;
+  <a href="https://render.com/" title="Render"><img src="https://cdn.simpleicons.org/render/46E3B7" width="56" height="56" alt="Render" /></a>
+  &nbsp;
+  <a href="https://railway.app/" title="Railway"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="56" height="56" alt="Railway" /></a>
+</p>
+
+<img src="https://img.shields.io/badge/Hosting-475569?style=for-the-badge" height="32" alt="Hosting" />
+
+### 🔐 Authentication & Security
+
+<p align="left">
+  <a href="https://jwt.io/" title="JWT"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="56" height="56" alt="JWT" /></a>
+  &nbsp;
+  <a href="https://oauth.net/2/" title="OAuth"><img src="https://cdn.simpleicons.org/auth0/EB5424" width="56" height="56" alt="OAuth" /></a>
+</p>
+
+**Authentication methods**
+
+  <img src="https://img.shields.io/badge/Authentication-2F6F9F?style=for-the-badge" height="32" alt="Authentication" /> &nbsp; <img src="https://img.shields.io/badge/Token-based-2F6F9F?style=for-the-badge" height="32" alt="Token-based" /> &nbsp; <img src="https://img.shields.io/badge/Cookie-based-2F6F9F?style=for-the-badge" height="32" alt="Cookie-based" />
+
+### 🧰 Development Tools
+
+<p align="left">
+  <a href="https://www.postman.com/" title="Postman"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="56" height="56" alt="Postman" /></a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="64" height="64" alt="VS Code" /></a>
+  &nbsp;
+  <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="64" height="64" alt="Figma" /></a>
+</p>
+
+### 🔄 Workflow Management & Productivity
+
+<p align="left">
+  <a href="https://www.notion.so/" title="Notion"><img src="https://skillicons.dev/icons?i=notion" width="64" height="64" alt="Notion" /></a>
+  &nbsp;
+  <a href="https://trello.com/" title="Trello"><img src="https://skillicons.dev/icons?i=trello" width="64" height="64" alt="Trello" /></a>
+  &nbsp;
+  <a href="https://clickup.com/" title="ClickUp"><img src="https://cdn.simpleicons.org/clickup/7B68EE" width="56" height="56" alt="ClickUp" /></a>
+  &nbsp;
+  <a href="https://slack.com/" title="Slack"><img src="https://cdn.simpleicons.org/slack/4A154B" width="56" height="56" alt="Slack" /></a>
+</p>
+
+### ⚡ Workflow Automation
+
+<p align="left">
+  <a href="https://n8n.io/" title="n8n"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="56" height="56" alt="n8n" /></a>
+  &nbsp;
+  <a href="https://zapier.com/" title="Zapier"><img src="https://cdn.simpleicons.org/zapier/FF4A00" width="56" height="56" alt="Zapier" /></a>
+  &nbsp;
+  <a href="https://www.make.com/" title="Make"><img src="https://cdn.simpleicons.org/make/6D00CC" width="56" height="56" alt="Make" /></a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" style="max-width: 100%;" />
