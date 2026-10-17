@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Syed+Muhammad+Ali;Full-Stack+Software+Engineer;AI+Engineering+%7C+LLMs+%7C+RAG;AI+Agents+%7C+Multimodal+AI;Workflow+Automation+with+n8n;Always+learning+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Syed+Muhammad+Ali;Full-Stack+Software+Engineer;AI+Engineering+%7C+LLMs+%7C+RAG;AI+Agents+%7C+Multimodal+AI;Workflow+Automation;Always+learning+and+building" alt="Typing SVG" />
 </p>
 
 
-<h4 align="center">Full-Stack Software Engineer | AI Engineer | Automation Enthusiast</h4>
+<h4 align="center">Full-Stack Software Engineer | AI Engineer | Automation Specialist</h4>
 <h4 align="center">FAST-NUCES '25 · Building scalable applications and intelligent workflows</h4>
 
 <p align="center">
@@ -19,17 +19,11 @@
 
 ---
 
-&#x20;Full Stack Software and AI Engineer specializing in full-stack development and AI engineering, with experience building scalable web applications,
-
-backend systems, APIs, databases, and cloud-based solutions. Skilled in LLMs, RAG, AI agents, multimodal AI, and workflow
-
-automation, with a strong focus on delivering secure, high-performance, maintainable, and production-ready software.
+&#x20;Full Stack Software and AI Engineer specializing in full-stack development and AI engineering, with experience building scalable web applications, backend systems, APIs, databases, and cloud-based solutions. Skilled in LLMs, RAG, AI agents, multimodal AI, and workflow automation, with a strong focus on delivering secure, high-performance, maintainable, and production-ready software.
 
 ---
 
-# 💻 My Favorite Tools and Technologies
-
-All technologies are displayed together in **one unified table**, without category headings. Brand icons link to their official websites; abstract concepts use purpose-made conceptual icons rather than logos from unrelated technologies.
+# 💻 Tools and Technologies
 
 <table align="center" border="1" cellpadding="8" cellspacing="0">
   <tr>
