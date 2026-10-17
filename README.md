@@ -57,7 +57,7 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /></a><br>Flask</td>
     <td align="center" width="96"><a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a><br>FastAPI</td>
     <td align="center" width="96"><a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /></a><br>Django</td>
-    <td align="center" width="96"><a href="https://www.openapis.org/" title="REST APIs"><img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&labelColor=333333" width="48" height="48" alt="REST APIs" /></a><br>REST APIs</td>
+    <td align="center" width="96"><a href="https://www.openapis.org/" title="REST APIs"><img src="https://cdn.simpleicons.org/openapi/6BA539" width="48" height="48" alt="REST APIs" /></a><br>REST APIs</td>
     <td align="center" width="96"><a href="https://socket.io/" title="Socket.IO"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="48" height="48" alt="Socket.IO" /></a><br>Socket.IO</td>
     <td align="center" width="96"><a href="https://www.django-rest-framework.org/" title="Django REST Framework"><img src="https://cdn.simpleicons.org/django/092E20" width="48" height="48" alt="Django REST Framework" /></a><br>Django REST Framework</td>
     <td align="center" width="96"><a href="https://www.prisma.io/" title="Prisma"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" height="48" alt="Prisma" /></a><br>Prisma</td>
@@ -71,7 +71,7 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://supabase.com/" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /></a><br>Supabase</td>
     <td align="center" width="96"><a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /></a><br>Firebase</td>
     <td align="center" width="96"><a href="https://www.pinecone.io/" title="Pinecone"><img src="https://www.google.com/s2/favicons?domain=pinecone.io&sz=128" width="48" height="48" alt="Pinecone" /></a><br>Pinecone</td>
-    <td align="center" width="96"><a href="https://www.trychroma.com/" title="Chroma"><img src="https://cdn.simpleicons.org/chroma/FF6446" width="48" height="48" alt="Chroma" /></a><br>Chroma</td>
+    <td align="center" width="96"><a href="https://www.trychroma.com/" title="Chroma"><img src="https://www.google.com/s2/favicons?domain=trychroma.com&sz=128" width="48" height="48" alt="Chroma" /></a><br>Chroma</td>
     <td align="center" width="96"><a href="https://openai.com/" title="OpenAI"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="OpenAI" /></a><br>OpenAI</td>
     <td align="center" width="96"><a href="https://claude.com/" title="Claude"><img src="https://www.google.com/s2/favicons?domain=claude.com&sz=128" width="48" height="48" alt="Claude" /></a><br>Claude</td>
   </tr>
@@ -81,21 +81,21 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" /></a><br>LangChain</td>
     <td align="center" width="96"><a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="LangGraph" /></a><br>LangGraph</td>
     <td align="center" width="96"><a href="https://huggingface.co/" title="Hugging Face"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=128" width="48" height="48" alt="Hugging Face" /></a><br>Hugging Face</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Large Language Models"><img src="https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Large Language Models" /></a><br>Large Language Models</td>
-    <td align="center" width="96"><a href="https://github.com/" title="LLMs"><img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&labelColor=333333" width="48" height="48" alt="LLMs" /></a><br>LLMs</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Prompt Engineering"><img src="https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Prompt Engineering" /></a><br>Prompt Engineering</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Vector Databases"><img src="https://img.shields.io/badge/Vector_Databases-008080?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Vector Databases" /></a><br>Vector Databases</td>
+    <td align="center" width="96"><a href="https://openai.com/" title="Large Language Models"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="Large Language Models" /></a><br>Large Language Models</td>
+    <td align="center" width="96"><a href="https://openai.com/" title="LLMs"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="LLMs" /></a><br>LLMs</td>
+    <td align="center" width="96"><a href="https://claude.com/" title="Prompt Engineering"><img src="https://www.google.com/s2/favicons?domain=claude.com&sz=128" width="48" height="48" alt="Prompt Engineering" /></a><br>Prompt Engineering</td>
+    <td align="center" width="96"><a href="https://www.pinecone.io/" title="Vector Databases"><img src="https://www.google.com/s2/favicons?domain=pinecone.io&sz=128" width="48" height="48" alt="Vector Databases" /></a><br>Vector Databases</td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="https://github.com/" title="Transformers"><img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Transformers" /></a><br>Transformers</td>
-    <td align="center" width="96"><a href="https://github.com/" title="RAG"><img src="https://img.shields.io/badge/RAG-0A7E8C?style=for-the-badge&labelColor=333333" width="48" height="48" alt="RAG" /></a><br>RAG</td>
-    <td align="center" width="96"><a href="https://github.com/" title="AI Agents"><img src="https://img.shields.io/badge/AI_Agents-6A5ACD?style=for-the-badge&labelColor=333333" width="48" height="48" alt="AI Agents" /></a><br>AI Agents</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Multimodal AI"><img src="https://img.shields.io/badge/Multimodal_AI-5B5BD6?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Multimodal AI" /></a><br>Multimodal AI</td>
+    <td align="center" width="96"><a href="https://huggingface.co/" title="Transformers"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=128" width="48" height="48" alt="Transformers" /></a><br>Transformers</td>
+    <td align="center" width="96"><a href="https://www.langchain.com/" title="RAG"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="RAG" /></a><br>RAG</td>
+    <td align="center" width="96"><a href="https://www.langchain.com/langgraph" title="AI Agents"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="AI Agents" /></a><br>AI Agents</td>
+    <td align="center" width="96"><a href="https://openai.com/" title="Multimodal AI"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="Multimodal AI" /></a><br>Multimodal AI</td>
     <td align="center" width="96"><a href="https://whisperai.com/" title="Whisper AI"><img src="https://www.google.com/s2/favicons?domain=whisperai.com&sz=128" width="48" height="48" alt="Whisper AI" /></a><br>Whisper AI</td>
-    <td align="center" width="96"><a href="https://openai.com/" title="DALL-E"><img src="https://img.shields.io/badge/DALL-E-412991?style=for-the-badge&labelColor=333333" width="48" height="48" alt="DALL-E" /></a><br>DALL-E</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Embeddings"><img src="https://img.shields.io/badge/Embeddings-287D72?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Embeddings" /></a><br>Embeddings</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Semantic Search"><img src="https://img.shields.io/badge/Semantic_Search-287D72?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Semantic Search" /></a><br>Semantic Search</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Hugging Face API"><img src="https://img.shields.io/badge/Hugging_Face_API-FFD21E?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Hugging Face API" /></a><br>Hugging Face API</td>
+    <td align="center" width="96"><a href="https://openai.com/" title="DALL-E"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="DALL-E" /></a><br>DALL-E</td>
+    <td align="center" width="96"><a href="https://www.pinecone.io/" title="Embeddings"><img src="https://www.google.com/s2/favicons?domain=pinecone.io&sz=128" width="48" height="48" alt="Embeddings" /></a><br>Embeddings</td>
+    <td align="center" width="96"><a href="https://www.pinecone.io/" title="Semantic Search"><img src="https://www.google.com/s2/favicons?domain=pinecone.io&sz=128" width="48" height="48" alt="Semantic Search" /></a><br>Semantic Search</td>
+    <td align="center" width="96"><a href="https://huggingface.co/" title="Hugging Face API"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=128" width="48" height="48" alt="Hugging Face API" /></a><br>Hugging Face API</td>
   </tr>
   <tr>
     <td align="center" width="96"><a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a><br>AWS</td>
@@ -103,19 +103,19 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a><br>Docker</td>
     <td align="center" width="96"><a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a><br>Linux</td>
     <td align="center" width="96"><a href="https://docs.github.com/en/actions" title="CI/CD"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="48" height="48" alt="CI/CD" /></a><br>CI/CD</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Microservices"><img src="https://img.shields.io/badge/Microservices-526CFE?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Microservices" /></a><br>Microservices</td>
+    <td align="center" width="96"><a href="https://www.docker.com/" title="Microservices"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Microservices" /></a><br>Microservices</td>
     <td align="center" width="96"><a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" /></a><br>Vercel</td>
     <td align="center" width="96"><a href="https://www.netlify.com/" title="Netlify"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /></a><br>Netlify</td>
     <td align="center" width="96"><a href="https://render.com/" title="Render"><img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render" /></a><br>Render</td>
   </tr>
   <tr>
     <td align="center" width="96"><a href="https://railway.app/" title="Railway"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48" alt="Railway" /></a><br>Railway</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Hosting"><img src="https://img.shields.io/badge/Hosting-475569?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Hosting" /></a><br>Hosting</td>
+    <td align="center" width="96"><a href="https://vercel.com/" title="Hosting"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Hosting" /></a><br>Hosting</td>
     <td align="center" width="96"><a href="https://jwt.io/" title="JWT"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT" /></a><br>JWT</td>
     <td align="center" width="96"><a href="https://oauth.net/2/" title="OAuth"><img src="https://www.google.com/s2/favicons?domain=oauth.net&sz=128" width="48" height="48" alt="OAuth" /></a><br>OAuth</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Authentication"><img src="https://img.shields.io/badge/Authentication-2F6F9F?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Authentication" /></a><br>Authentication</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Token-based"><img src="https://img.shields.io/badge/Token-based-2F6F9F?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Token-based" /></a><br>Token-based</td>
-    <td align="center" width="96"><a href="https://github.com/" title="Cookie-based"><img src="https://img.shields.io/badge/Cookie-based-2F6F9F?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Cookie-based" /></a><br>Cookie-based</td>
+    <td align="center" width="96"><a href="https://jwt.io/" title="Authentication"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="Authentication" /></a><br>Authentication</td>
+    <td align="center" width="96"><a href="https://jwt.io/" title="Token-based"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="Token-based" /></a><br>Token-based</td>
+    <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies" title="Cookie-based"><img src="https://cdn.simpleicons.org/cookiecutter/FFA500" width="48" height="48" alt="Cookie-based" /></a><br>Cookie-based</td>
     <td align="center" width="96"><a href="https://www.postman.com/" title="Postman"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" /></a><br>Postman</td>
     <td align="center" width="96"><a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a><br>VS Code</td>
   </tr>
