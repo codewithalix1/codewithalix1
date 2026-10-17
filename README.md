@@ -72,17 +72,17 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /></a><br>Firebase</td>
     <td align="center" width="96"><a href="https://www.prisma.io/" title="Prisma"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" height="48" alt="Prisma" /></a><br>Prisma</td>
     <td align="center" width="96"><a href="https://orm.drizzle.team/" title="Drizzle ORM"><img src="https://cdn.simpleicons.org/drizzle/C5F74F" width="48" height="48" alt="Drizzle ORM" /></a><br>Drizzle ORM</td>
-    <td align="center" width="96"><a href="https://www.pinecone.io/" title="Pinecone"><img src="https://cdn.simpleicons.org/pinecone/000000" width="48" height="48" alt="Pinecone" /></a><br>Pinecone</td>
+    <td align="center" width="96"><a href="https://www.pinecone.io/" title="Pinecone"><img src="https://www.google.com/s2/favicons?domain=pinecone.io&sz=128" width="48" height="48" alt="Pinecone" /></a><br>Pinecone</td>
     <td align="center" width="96"><a href="https://www.trychroma.com/" title="Chroma"><img src="https://cdn.simpleicons.org/chroma/FF6446" width="48" height="48" alt="Chroma" /></a><br>Chroma</td>
   </tr>
   <tr>
-    <td align="center" width="96"><a href="https://openai.com/" title="OpenAI"><img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI" /></a><br>OpenAI</td>
-    <td align="center" width="96"><a href="https://www.anthropic.com/claude" title="Claude"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Claude" /></a><br>Claude</td>
+    <td align="center" width="96"><a href="https://openai.com/" title="OpenAI"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="OpenAI" /></a><br>OpenAI</td>
+    <td align="center" width="96"><a href="https://claude.com/" title="Claude"><img src="https://www.google.com/s2/favicons?domain=claude.com&sz=128" width="48" height="48" alt="Claude" /></a><br>Claude</td>
     <td align="center" width="96"><a href="https://ai.google.dev/" title="Gemini"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" /></a><br>Gemini</td>
     <td align="center" width="96"><a href="https://ollama.com/" title="Ollama"><img src="https://cdn.simpleicons.org/ollama/000000" width="48" height="48" alt="Ollama" /></a><br>Ollama</td>
     <td align="center" width="96"><a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" /></a><br>LangChain</td>
     <td align="center" width="96"><a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="LangGraph" /></a><br>LangGraph</td>
-    <td align="center" width="96"><a href="https://huggingface.co/" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" /></a><br>Hugging Face</td>
+    <td align="center" width="96"><a href="https://huggingface.co/docs/inference-providers/en/tasks/index" title="Hugging Face"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=128" width="48" height="48" alt="Hugging Face" /></a><br>Hugging Face</td>
     <td align="center" width="96"><a href="https://github.com/" title="Large Language Models"><img src="https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Large Language Models" /></a><br>Large Language Models</td>
     <td align="center" width="96"><a href="https://github.com/" title="LLMs"><img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&labelColor=333333" width="48" height="48" alt="LLMs" /></a><br>LLMs</td>
   </tr>
@@ -93,7 +93,7 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://github.com/" title="RAG"><img src="https://img.shields.io/badge/RAG-0A7E8C?style=for-the-badge&labelColor=333333" width="48" height="48" alt="RAG" /></a><br>RAG</td>
     <td align="center" width="96"><a href="https://github.com/" title="AI Agents"><img src="https://img.shields.io/badge/AI_Agents-6A5ACD?style=for-the-badge&labelColor=333333" width="48" height="48" alt="AI Agents" /></a><br>AI Agents</td>
     <td align="center" width="96"><a href="https://github.com/" title="Multimodal AI"><img src="https://img.shields.io/badge/Multimodal_AI-5B5BD6?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Multimodal AI" /></a><br>Multimodal AI</td>
-    <td align="center" width="96"><a href="https://get-whisper.com/" title="Whisper AI"><img src="https://www.google.com/s2/favicons?domain=get-whisper.com&sz=128" width="48" height="48" alt="Whisper AI" /></a><br>Whisper AI</td>
+    <td align="center" width="96"><a href="https://whisperai.com/" title="Whisper AI"><img src="https://www.google.com/s2/favicons?domain=whisperai.com&sz=128" width="48" height="48" alt="Whisper AI" /></a><br>Whisper AI</td>
     <td align="center" width="96"><a href="https://openai.com/" title="DALL-E"><img src="https://img.shields.io/badge/DALL-E-412991?style=for-the-badge&labelColor=333333" width="48" height="48" alt="DALL-E" /></a><br>DALL-E</td>
     <td align="center" width="96"><a href="https://github.com/" title="Embeddings"><img src="https://img.shields.io/badge/Embeddings-287D72?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Embeddings" /></a><br>Embeddings</td>
   </tr>
@@ -114,7 +114,7 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://railway.app/" title="Railway"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48" alt="Railway" /></a><br>Railway</td>
     <td align="center" width="96"><a href="https://github.com/" title="Hosting"><img src="https://img.shields.io/badge/Hosting-475569?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Hosting" /></a><br>Hosting</td>
     <td align="center" width="96"><a href="https://jwt.io/" title="JWT"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT" /></a><br>JWT</td>
-    <td align="center" width="96"><a href="https://oauth.net/2/" title="OAuth"><img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&labelColor=333333" width="48" height="48" alt="OAuth" /></a><br>OAuth</td>
+    <td align="center" width="96"><a href="https://oauth.net/2/" title="OAuth"><img src="https://www.google.com/s2/favicons?domain=oauth.net&sz=128" width="48" height="48" alt="OAuth" /></a><br>OAuth</td>
     <td align="center" width="96"><a href="https://github.com/" title="Authentication"><img src="https://img.shields.io/badge/Authentication-2F6F9F?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Authentication" /></a><br>Authentication</td>
     <td align="center" width="96"><a href="https://github.com/" title="Token-based"><img src="https://img.shields.io/badge/Token-based-2F6F9F?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Token-based" /></a><br>Token-based</td>
     <td align="center" width="96"><a href="https://github.com/" title="Cookie-based"><img src="https://img.shields.io/badge/Cookie-based-2F6F9F?style=for-the-badge&labelColor=333333" width="48" height="48" alt="Cookie-based" /></a><br>Cookie-based</td>
@@ -124,7 +124,7 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a><br>VS Code</td>
     <td align="center" width="96"><a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /></a><br>Figma</td>
     <td align="center" width="96"><a href="https://www.notion.so/" title="Notion"><img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" /></a><br>Notion</td>
-    <td align="center" width="96"><a href="https://trello.com/" title="Trello"><img src="https://skillicons.dev/icons?i=trello" width="48" height="48" alt="Trello" /></a><br>Trello</td>
+    <td align="center" width="96"><a href="https://trello.com/" title="Trello"><img src="https://www.google.com/s2/favicons?domain=trello.com&sz=128" width="48" height="48" alt="Trello" /></a><br>Trello</td>
     <td align="center" width="96"><a href="https://clickup.com/" title="ClickUp"><img src="https://cdn.simpleicons.org/clickup/7B68EE" width="48" height="48" alt="ClickUp" /></a><br>ClickUp</td>
     <td align="center" width="96"><a href="https://slack.com/" title="Slack"><img src="https://cdn.simpleicons.org/slack/4A154B" width="48" height="48" alt="Slack" /></a><br>Slack</td>
     <td align="center" width="96"><a href="https://n8n.io/" title="n8n"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" /></a><br>n8n</td>
