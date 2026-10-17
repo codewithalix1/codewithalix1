@@ -32,7 +32,7 @@ All technologies are displayed together in **one unified table**, without catego
 
 <table align="center" border="1" cellpadding="8" cellspacing="0">
   <tr>
-    <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td>
+    <td align="center" width="96"><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies" title="Cookie-based"><img src="https://api.iconify.design/mdi/cookie.svg?color=%23D97706" width="48" height="48" alt="JavaScript" /></a><br>JavaScript</td>
     <td align="center" width="96"><a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a><br>TypeScript</td>
     <td align="center" width="96"><a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a><br>Python</td>
     <td align="center" width="96"><a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></a><br>Java</td>
@@ -57,7 +57,7 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" /></a><br>Flask</td>
     <td align="center" width="96"><a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /></a><br>FastAPI</td>
     <td align="center" width="96"><a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /></a><br>Django</td>
-    <td align="center" width="96"><a href="https://www.openapis.org/" title="REST APIs"><img src="https://cdn.simpleicons.org/openapi/6BA539" width="48" height="48" alt="REST APIs" /></a><br>REST APIs</td>
+    
     <td align="center" width="96"><a href="https://socket.io/" title="Socket.IO"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="48" height="48" alt="Socket.IO" /></a><br>Socket.IO</td>
     <td align="center" width="96"><a href="https://www.django-rest-framework.org/" title="Django REST Framework"><img src="https://cdn.simpleicons.org/django/092E20" width="48" height="48" alt="Django REST Framework" /></a><br>Django REST Framework</td>
     <td align="center" width="96"><a href="https://www.prisma.io/" title="Prisma"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" height="48" alt="Prisma" /></a><br>Prisma</td>
@@ -81,7 +81,7 @@ All technologies are displayed together in **one unified table**, without catego
     <td align="center" width="96"><a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" /></a><br>LangChain</td>
     <td align="center" width="96"><a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="48" height="48" alt="LangGraph" /></a><br>LangGraph</td>
     <td align="center" width="96"><a href="https://huggingface.co/" title="Hugging Face"><img src="https://www.google.com/s2/favicons?domain=huggingface.co&sz=128" width="48" height="48" alt="Hugging Face" /></a><br>Hugging Face</td>
-    <td align="center" width="96"><a href="https://openai.com/" title="Large Language Models"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="Large Language Models" /></a><br>Large Language Models</td>
+    
     <td align="center" width="96"><a href="https://openai.com/" title="LLMs"><img src="https://www.google.com/s2/favicons?domain=openai.com&sz=128" width="48" height="48" alt="LLMs" /></a><br>LLMs</td>
     <td align="center" width="96"><a href="https://claude.com/" title="Prompt Engineering"><img src="https://www.google.com/s2/favicons?domain=claude.com&sz=128" width="48" height="48" alt="Prompt Engineering" /></a><br>Prompt Engineering</td>
     <td align="center" width="96"><a href="https://www.pinecone.io/" title="Vector Databases"><img src="https://www.google.com/s2/favicons?domain=pinecone.io&sz=128" width="48" height="48" alt="Vector Databases" /></a><br>Vector Databases</td>
@@ -110,7 +110,7 @@ All technologies are displayed together in **one unified table**, without catego
   </tr>
   <tr>
     <td align="center" width="96"><a href="https://railway.app/" title="Railway"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="48" height="48" alt="Railway" /></a><br>Railway</td>
-    <td align="center" width="96"><a href="https://vercel.com/" title="Hosting"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Hosting" /></a><br>Hosting</td>
+    
     <td align="center" width="96"><a href="https://jwt.io/" title="JWT"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="JWT" /></a><br>JWT</td>
     <td align="center" width="96"><a href="https://oauth.net/2/" title="OAuth"><img src="https://www.google.com/s2/favicons?domain=oauth.net&sz=128" width="48" height="48" alt="OAuth" /></a><br>OAuth</td>
     <td align="center" width="96"><a href="https://jwt.io/" title="Authentication"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="48" height="48" alt="Authentication" /></a><br>Authentication</td>
